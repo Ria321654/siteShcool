@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+136school.edusite.ru	TRUE	/	FALSE	1999999999	PHPSESSID	8264acfa7853cf7747fd4b518ca72cd2
+136school.edusite.ru	TRUE	/	FALSE	1999999999	code	8ea434eb3b789bf564416ba1c41d9408
+
